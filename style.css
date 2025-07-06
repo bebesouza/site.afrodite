@@ -1,0 +1,376 @@
+ html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    .foto01{
+          background-image: url(afrodite4.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    }
+
+.foto02{
+    background-image: url(fundorosa.jpg);
+    background-size: cover;
+    background-position: bottom;
+  min-height: 100vh;
+  height: 100%;
+  
+}
+.foto03{
+     background-image: url(fundoroxo.jpg);
+    background-size: cover;
+    background-position: bottom;
+  min-height: 100vh;
+  height: 200%;
+  width: auto;
+  
+}
+
+
+h2{
+    color: rgb(161, 19, 19);
+    position:absolute;
+    left:32%; 
+    margin-top: 0%;
+
+}
+h1{
+    position: absolute;
+    color: rgb(161, 19, 19);
+    left: 36%;
+   margin-top: 2%;
+    
+}
+
+#cor{
+    color:rgb(133, 103, 8);
+    position:absolute;
+    left:44%; 
+    margin-top: 0%;
+}
+#img{
+    position:absolute;
+   left:44%; 
+   margin-top: 3%;
+  
+}
+
+#p{
+
+    font-size: 26px;
+    position:absolute;
+    left:29%; 
+}
+#p2{
+    font-size: 26px;
+    position:absolute;
+    left:7%; 
+    margin-top: 5%;
+}
+
+hr{
+    color: rgb(219, 150, 150);
+    margin-top: 28%;
+}
+.cor{
+    color: rgb(133, 103, 8);
+    position:absolute;
+    left:44%; 
+
+     }
+.p{
+font-size: 28px;
+position:absolute;
+     left:0%;
+
+}
+#foto1{
+    position:absolute;
+    left:0%; 
+    margin-top: 16%;
+    width: auto;
+    height: 200px;
+}
+#foto2{
+    position:absolute;
+    left:85%; 
+    margin-top: 2%;
+}
+#foto3{
+    position:absolute;
+    left:92%; 
+   margin-top: 2%;
+    width: auto;
+    height: 346px;
+
+}
+#h2{
+    position:absolute;
+    left:45%; 
+}
+#ol{
+ margin-top: 9%;
+  position:absolute;
+    left:0%; 
+    font-size: 27px;
+}
+#h3{
+    margin-top: 6%;
+  position:absolute;
+    left:1%; 
+    font-size: 26px;
+}
+#foto4{
+     position:absolute;
+    left:0%; 
+   margin-top: 22%;
+   width: auto;
+   height: 295px;
+}
+.h3{
+ margin-top: 6%;
+  position:absolute;
+    left:38%; 
+    font-size: 26px;
+} 
+.ol{
+     position:absolute;
+    left:37%; 
+   margin-top: 9%;
+   font-size: 27px;
+}
+#hr2{
+    margin-top: 32%;
+}
+#hr3{
+    margin-top: 32%;
+}
+#h{
+   margin-top:6%;
+  position:absolute;
+    left:77%;  
+    font-size: 26px;
+}
+#ol2{
+    position:absolute;
+    left:76%; 
+   margin-top: 9%;
+   font-size: 27px;
+}
+#foto5{
+     position:absolute;
+    left:70%; 
+   margin-top: 29%;
+   width: auto;
+   height: 250px;
+ 
+}
+#foto6{
+    position:absolute;
+    left:75%; 
+   margin-top: 12%;
+ 
+
+}
+
+#foto8{
+position:absolute;
+    left:0%; 
+   margin-top: 0%;
+ width: 465px;
+ height: 640px;
+}
+#g{
+    position:absolute;
+    left:0%; 
+   margin-top: 0%;
+   font-size: 50px;
+   color: rgb(202, 48, 56);
+}
+
+#foto9{
+position:absolute;
+    left:31%; 
+   margin-top: 0%;
+ width: 500px;
+ height: 640px;
+
+}
+#foto10{
+    position:absolute;
+    left:64%; 
+   margin-top: 0%;
+ width: 500px;
+ height: 640px;
+}
+
+
+#foto11{
+    position:absolute;
+    left:64%; 
+   margin-top: 0%;
+ width: auto;
+ height: 250px;
+}
+
+
+
+
+
+#foto12{
+    position:absolute;
+    left:79%; 
+   margin-top: 34%;
+width: auto;
+ height: 180px;
+}
+#foto13{
+    position:absolute;
+    left:49%; 
+   margin-top: 0%;
+width: auto;
+ height: 200px;
+}
+#foto14{
+     position:absolute;
+    left:31%; 
+   margin-top: 0%;
+width: auto;
+ height: 255px;
+}
+#foto15{
+     position:absolute;
+    left:49%; 
+   margin-top: 28%;
+width: auto;
+height: 260px;
+}
+#foto16{
+     position:absolute;
+    left:31%; 
+   margin-top: 32%;
+width: auto;
+height: 200px;
+}
+#foto17{
+     position:absolute;
+    left:0%; 
+   margin-top: 28%;
+width: auto;
+ height: 250px;
+}
+#foto18{
+     position:absolute;
+    left:19%; 
+   margin-top: 29%;
+width: auto;
+ height: 250px;
+}
+
+#dt1{
+     position:absolute;
+    left:45%; 
+   margin-top: 23%;
+width: auto;
+ height: 140px;
+}
+#dt2{
+     position:absolute;
+    left:78%; 
+   margin-top: 14%;
+width: auto;
+ height: 100px;
+}
+#dt3{
+     position:absolute;
+    left:36%; 
+   margin-top: 14%;
+width: auto;
+ height: 100px;
+}
+#dt4{
+     position:absolute;
+    left:46%; 
+   margin-top: 9%;
+width: auto;
+ height: 100px;
+}
+#dt5{
+     position:absolute;
+    left:79%; 
+   margin-top: 36%;
+width: 298px;
+ height: 143px;
+}
+#dt6{
+      position:absolute;
+    left:11%; 
+   margin-top: 0%;
+width: auto;
+ height: 89px;
+}
+#dt7{
+      position:absolute;
+    left:77%; 
+   margin-top: 30%;
+width: auto;
+ height: 100px;
+}
+
+#h02{
+    position: absolute;
+    left: 0%;
+    margin-top: 48%;
+    color: rgb(198, 43, 212);
+}
+#p02{
+     position: absolute;
+    left: 0%;
+    margin-top: 50%;
+    font-size: 20px;
+}
+#ul{
+      position: absolute;
+    left: 0%;
+    margin-top: 55%;
+    font-size: 18px;
+}
+
+#b{
+
+    position: absolute;
+    left: 10%;
+    margin-top: 65%;
+    width: auto;
+    height: 300px;
+}
+#foto19{
+      position:absolute;
+    left:90%; 
+   margin-top: 78%;
+width: auto;
+height: 199px;
+}
+#dt8{
+       position:absolute;
+    left:8%; 
+   margin-top: 63%;
+width: auto;
+ height: 80px;
+}
+#dt9{
+       position:absolute;
+    left:12%; 
+   margin-top: 47%;
+width: auto;
+ height: 45px;
+}
+#dt10{
+       position:absolute;
+    left:19%; 
+   margin-top: 83%;
+width: auto;
+ height: 100px;
+}
